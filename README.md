@@ -1,2 +1,2 @@
 # home
-Random code
+Totally random stuffs
